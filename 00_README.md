@@ -17,13 +17,13 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 Are we able to predict the revenue for a given movie?
 
-##Models Used
+## Models Used
 
 - uni-variate Regression
 - Multi-variate Regression
 - Random forest Regression
 
-##Conclusion
+## Conclusion
 
 - Vote_count and budget have high correlation scores with revenue
 - Multi-variate regression using categorical variables does not perform well due to the low R2 value 
