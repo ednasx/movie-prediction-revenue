@@ -1,6 +1,6 @@
 # movie-prediction-revenue
 
-This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) focusing on movies from the Full TMDB Movies Dataset 2024. For a detailed walkthrough, please view the source code in order from:
+This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) focusing on movies from the Full TMDB Movies Dataset 2024 (https:www.kaggle.com/datasets/asaniczka/tmdb-movies-dataset-2023-930k-movies). For a detailed walkthrough, please view the source code in order from:
 
 - Data cleaning
 - Data Visualization
