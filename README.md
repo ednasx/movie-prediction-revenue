@@ -9,12 +9,15 @@ Random forest regression
 evaluation
 
 **Contributors**
-  Need to add our names
+
+Jared, Shawn, Edbert
 
 **Problem Definition**
-  Are we able to predict the revenue for a given movie?
+
+Are we able to predict the revenue for a given movie?
 
 **Models Used**
+
 uni-variate Regression
 Multi-variate Regression
 Random forest Regression
